@@ -1,0 +1,14 @@
+{
+  "global": {
+    "titleColor": "#fff",
+    "buttonColor": "green",
+    "NavbarBckColor": "",
+    "BackgrdImage": "url('hero.jpg')"
+  },
+  "contact":{
+
+  },
+  "privacy": {
+
+  }
+}
